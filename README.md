@@ -1,0 +1,1 @@
+This contains all projects related to Machine Learning Classifiers for supervised and unsupervised learning. It contains preprocessing, training, cross validation, hyperparameter tuning and evaluation.
